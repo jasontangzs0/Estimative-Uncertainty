@@ -1,0 +1,360 @@
+{'id': 0, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'below 99', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 1, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'below 99', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 2, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'below 99', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 3, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'below 99', 'index': 3, 'answer': 'A.is likely to be'}
+{'id': 4, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'below 99', 'index': 4, 'answer': 'D.is unlikely to be'}
+{'id': 5, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'below 99', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 6, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'above 99', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 7, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'above 99', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 8, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'above 99', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 9, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'above 99', 'index': 3, 'answer': 'A.is likely to be'}
+{'id': 10, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'above 99', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 11, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'above 99', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 12, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'between 99 and 100', 'index': 0, 'answer': 'D.is unlikely to be'}
+{'id': 13, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'between 99 and 100', 'index': 1, 'answer': 'A.is likely to be\nB.is maybe\nC.is unlikely to be'}
+{'id': 14, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'between 99 and 100', 'index': 2, 'answer': 'D.is unlikely to be'}
+{'id': 15, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'between 99 and 100', 'index': 3, 'answer': 'A.is unlikely to be B.is maybe C.is likely to be'}
+{'id': 16, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'between 99 and 100', 'index': 4, 'answer': 'D.is unlikely to be'}
+{'id': 17, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'between 99 and 100', 'index': 5, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be.'}
+{'id': 18, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'below 99 or above 100', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 19, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'below 99 or above 100', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 20, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'below 99 or above 100', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 21, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'below 99 or above 100', 'index': 3, 'answer': 'A.is likely to be'}
+{'id': 22, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'below 99 or above 100', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 23, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'below 99 or above 100', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 24, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'below 100', 'index': 0, 'answer': 'D.is unlikely to be'}
+{'id': 25, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'below 100', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 26, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'below 100', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 27, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'below 100', 'index': 3, 'answer': 'A.is likely to be'}
+{'id': 28, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'below 100', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 29, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'below 100', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 30, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'above 100', 'index': 0, 'answer': 'D.is unlikely to be'}
+{'id': 31, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'above 100', 'index': 1, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be.'}
+{'id': 32, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'above 100', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 33, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'above 100', 'index': 3, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be'}
+{'id': 34, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'above 100', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 35, 'mean_std': (100, 10), 'ci': 0.05, 'interval': 'above 100', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 36, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'below 96', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 37, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'below 96', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 38, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'below 96', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 39, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'below 96', 'index': 3, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be.'}
+{'id': 40, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'below 96', 'index': 4, 'answer': 'D.is unlikely to be'}
+{'id': 41, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'below 96', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 42, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'above 96', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 43, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'above 96', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 44, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'above 96', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 45, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'above 96', 'index': 3, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be'}
+{'id': 46, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'above 96', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 47, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'above 96', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 48, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'between 96 and 103', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 49, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'between 96 and 103', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 50, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'between 96 and 103', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 51, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'between 96 and 103', 'index': 3, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be'}
+{'id': 52, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'between 96 and 103', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 53, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'between 96 and 103', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 54, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'below 96 or above 103', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 55, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'below 96 or above 103', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 56, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'below 96 or above 103', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 57, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'below 96 or above 103', 'index': 3, 'answer': 'A.is likely to be'}
+{'id': 58, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'below 96 or above 103', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 59, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'below 96 or above 103', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 60, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'below 103', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 61, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'below 103', 'index': 1, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be'}
+{'id': 62, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'below 103', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 63, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'below 103', 'index': 3, 'answer': 'A.is likely to be'}
+{'id': 64, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'below 103', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 65, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'below 103', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 66, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'above 103', 'index': 0, 'answer': 'D.is unlikely to be'}
+{'id': 67, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'above 103', 'index': 1, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be'}
+{'id': 68, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'above 103', 'index': 2, 'answer': 'D.is unlikely to be'}
+{'id': 69, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'above 103', 'index': 3, 'answer': 'A.is unlikely to be B.is maybe C.is likely to be'}
+{'id': 70, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'above 103', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 71, 'mean_std': (100, 10), 'ci': 0.275, 'interval': 'above 103', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 72, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'below 93', 'index': 0, 'answer': 'D.is unlikely to be'}
+{'id': 73, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'below 93', 'index': 1, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be.'}
+{'id': 74, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'below 93', 'index': 2, 'answer': 'D.is unlikely to be'}
+{'id': 75, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'below 93', 'index': 3, 'answer': 'A.is unlikely to be B.is maybe C.is likely to be'}
+{'id': 76, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'below 93', 'index': 4, 'answer': 'D.is unlikely to be'}
+{'id': 77, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'below 93', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 78, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'above 93', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 79, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'above 93', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 80, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'above 93', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 81, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'above 93', 'index': 3, 'answer': 'A.is likely to be'}
+{'id': 82, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'above 93', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 83, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'above 93', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 84, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'between 93 and 106', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 85, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'between 93 and 106', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 86, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'between 93 and 106', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 87, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'between 93 and 106', 'index': 3, 'answer': 'A.is likely to be'}
+{'id': 88, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'between 93 and 106', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 89, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'between 93 and 106', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 90, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'below 93 or above 106', 'index': 0, 'answer': 'D.is unlikely to be'}
+{'id': 91, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'below 93 or above 106', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 92, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'below 93 or above 106', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 93, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'below 93 or above 106', 'index': 3, 'answer': 'A.is likely to be'}
+{'id': 94, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'below 93 or above 106', 'index': 4, 'answer': 'D.is unlikely to be'}
+{'id': 95, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'below 93 or above 106', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 96, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'below 106', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 97, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'below 106', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 98, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'below 106', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 99, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'below 106', 'index': 3, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be'}
+{'id': 100, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'below 106', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 101, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'below 106', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 102, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'above 106', 'index': 0, 'answer': 'D.is unlikely to be'}
+{'id': 103, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'above 106', 'index': 1, 'answer': 'A.is unlikely to be'}
+{'id': 104, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'above 106', 'index': 2, 'answer': 'D.is unlikely to be'}
+{'id': 105, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'above 106', 'index': 3, 'answer': 'A.is unlikely to be B.is maybe C.is likely to be'}
+{'id': 106, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'above 106', 'index': 4, 'answer': 'D.is unlikely to be'}
+{'id': 107, 'mean_std': (100, 10), 'ci': 0.5, 'interval': 'above 106', 'index': 5, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be.'}
+{'id': 108, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'below 89', 'index': 0, 'answer': 'D.is unlikely to be'}
+{'id': 109, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'below 89', 'index': 1, 'answer': 'C.is unlikely to be'}
+{'id': 110, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'below 89', 'index': 2, 'answer': 'D.is unlikely to be'}
+{'id': 111, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'below 89', 'index': 3, 'answer': 'A.is unlikely to be B.is maybe C.is likely to be\n\nThe correct completion of the sentence would be: \n\nA. is unlikely to be below 89. \n\nThis is because only two out of the twenty scores listed are below 89, making it less likely for a randomly picked score to fall below this number.'}
+{'id': 112, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'below 89', 'index': 4, 'answer': 'D.is unlikely to be'}
+{'id': 113, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'below 89', 'index': 5, 'answer': 'A.is unlikely to be'}
+{'id': 114, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'above 89', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 115, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'above 89', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 116, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'above 89', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 117, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'above 89', 'index': 3, 'answer': 'A.is likely to be'}
+{'id': 118, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'above 89', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 119, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'above 89', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 120, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'between 89 and 110', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 121, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'between 89 and 110', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 122, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'between 89 and 110', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 123, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'between 89 and 110', 'index': 3, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be'}
+{'id': 124, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'between 89 and 110', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 125, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'between 89 and 110', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 126, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'below 89 or above 110', 'index': 0, 'answer': 'D.is unlikely to be'}
+{'id': 127, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'below 89 or above 110', 'index': 1, 'answer': 'C.is unlikely to be'}
+{'id': 128, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'below 89 or above 110', 'index': 2, 'answer': 'D.is unlikely to be'}
+{'id': 129, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'below 89 or above 110', 'index': 3, 'answer': 'A.is unlikely to be'}
+{'id': 130, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'below 89 or above 110', 'index': 4, 'answer': 'D.is unlikely to be'}
+{'id': 131, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'below 89 or above 110', 'index': 5, 'answer': 'C.is unlikely to be'}
+{'id': 132, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'below 110', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 133, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'below 110', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 134, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'below 110', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 135, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'below 110', 'index': 3, 'answer': 'A.is likely to be'}
+{'id': 136, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'below 110', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 137, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'below 110', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 138, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'above 110', 'index': 0, 'answer': 'D.is unlikely to be'}
+{'id': 139, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'above 110', 'index': 1, 'answer': "A.is unlikely to be B.is maybe C.is likely to be. Based on the information, the specimen's height is unlikely to be above 110."}
+{'id': 140, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'above 110', 'index': 2, 'answer': 'D.is unlikely to be'}
+{'id': 141, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'above 110', 'index': 3, 'answer': 'A.is unlikely to be B.is maybe C.is likely to be'}
+{'id': 142, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'above 110', 'index': 4, 'answer': 'D.is unlikely to be'}
+{'id': 143, 'mean_std': (100, 10), 'ci': 0.725, 'interval': 'above 110', 'index': 5, 'answer': 'A.is unlikely to be B.is maybe C.is likely to be'}
+{'id': 144, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'below 80', 'index': 0, 'answer': 'D.is unlikely to be'}
+{'id': 145, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'below 80', 'index': 1, 'answer': 'A.is unlikely to be'}
+{'id': 146, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'below 80', 'index': 2, 'answer': 'D.is unlikely to be'}
+{'id': 147, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'below 80', 'index': 3, 'answer': 'A.is unlikely to be'}
+{'id': 148, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'below 80', 'index': 4, 'answer': 'D.is unlikely to be'}
+{'id': 149, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'below 80', 'index': 5, 'answer': 'A.is unlikely to be'}
+{'id': 150, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'above 80', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 151, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'above 80', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 152, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'above 80', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 153, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'above 80', 'index': 3, 'answer': 'A.is likely to be'}
+{'id': 154, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'above 80', 'index': 4, 'answer': 'A.is almost certainly'}
+{'id': 155, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'above 80', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 156, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'between 80 and 119', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 157, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'between 80 and 119', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 158, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'between 80 and 119', 'index': 2, 'answer': 'A.is almost certainly'}
+{'id': 159, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'between 80 and 119', 'index': 3, 'answer': 'A.is likely to be'}
+{'id': 160, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'between 80 and 119', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 161, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'between 80 and 119', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 162, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'below 80 or above 119', 'index': 0, 'answer': 'E.is almost certainly not'}
+{'id': 163, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'below 80 or above 119', 'index': 1, 'answer': 'C.is unlikely to be'}
+{'id': 164, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'below 80 or above 119', 'index': 2, 'answer': 'E.is almost certainly not'}
+{'id': 165, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'below 80 or above 119', 'index': 3, 'answer': 'C.is unlikely to be'}
+{'id': 166, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'below 80 or above 119', 'index': 4, 'answer': 'E.is almost certainly not'}
+{'id': 167, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'below 80 or above 119', 'index': 5, 'answer': 'C.is unlikely to be'}
+{'id': 168, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'below 119', 'index': 0, 'answer': 'A.is almost certainly'}
+{'id': 169, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'below 119', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 170, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'below 119', 'index': 2, 'answer': 'A.is almost certainly'}
+{'id': 171, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'below 119', 'index': 3, 'answer': 'A.is likely to be'}
+{'id': 172, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'below 119', 'index': 4, 'answer': 'A.is almost certainly'}
+{'id': 173, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'below 119', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 174, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'above 119', 'index': 0, 'answer': 'E.is almost certainly not'}
+{'id': 175, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'above 119', 'index': 1, 'answer': 'C.is unlikely to be'}
+{'id': 176, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'above 119', 'index': 2, 'answer': 'E.is almost certainly not'}
+{'id': 177, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'above 119', 'index': 3, 'answer': 'C.is unlikely to be'}
+{'id': 178, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'above 119', 'index': 4, 'answer': 'D.is unlikely to be'}
+{'id': 179, 'mean_std': (100, 10), 'ci': 0.95, 'interval': 'above 119', 'index': 5, 'answer': 'C.is unlikely to be'}
+{'id': 180, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'below 97', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 181, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'below 97', 'index': 1, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be.'}
+{'id': 182, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'below 97', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 183, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'below 97', 'index': 3, 'answer': 'A.is likely to be'}
+{'id': 184, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'below 97', 'index': 4, 'answer': 'D.is unlikely to be'}
+{'id': 185, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'below 97', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 186, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'above 97', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 187, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'above 97', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 188, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'above 97', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 189, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'above 97', 'index': 3, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be'}
+{'id': 190, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'above 97', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 191, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'above 97', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 192, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'between 97 and 102', 'index': 0, 'answer': 'D.is unlikely to be'}
+{'id': 193, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'between 97 and 102', 'index': 1, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be.'}
+{'id': 194, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'between 97 and 102', 'index': 2, 'answer': 'D.is unlikely to be'}
+{'id': 195, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'between 97 and 102', 'index': 3, 'answer': 'A.is unlikely to be B.is maybe C.is likely to be'}
+{'id': 196, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'between 97 and 102', 'index': 4, 'answer': 'D.is unlikely to be'}
+{'id': 197, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'between 97 and 102', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 198, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'below 97 or above 102', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 199, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'below 97 or above 102', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 200, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'below 97 or above 102', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 201, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'below 97 or above 102', 'index': 3, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be.'}
+{'id': 202, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'below 97 or above 102', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 203, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'below 97 or above 102', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 204, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'below 102', 'index': 0, 'answer': 'D.is unlikely to be'}
+{'id': 205, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'below 102', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 206, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'below 102', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 207, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'below 102', 'index': 3, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be'}
+{'id': 208, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'below 102', 'index': 4, 'answer': 'D.is unlikely to be'}
+{'id': 209, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'below 102', 'index': 5, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be.'}
+{'id': 210, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'above 102', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 211, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'above 102', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 212, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'above 102', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 213, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'above 102', 'index': 3, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be'}
+{'id': 214, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'above 102', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 215, 'mean_std': (100, 40), 'ci': 0.05, 'interval': 'above 102', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 216, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'below 85', 'index': 0, 'answer': 'D.is unlikely to be'}
+{'id': 217, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'below 85', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 218, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'below 85', 'index': 2, 'answer': 'D.is unlikely to be'}
+{'id': 219, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'below 85', 'index': 3, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be.'}
+{'id': 220, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'below 85', 'index': 4, 'answer': 'D.is unlikely to be'}
+{'id': 221, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'below 85', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 222, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'above 85', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 223, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'above 85', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 224, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'above 85', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 225, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'above 85', 'index': 3, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be'}
+{'id': 226, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'above 85', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 227, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'above 85', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 228, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'between 85 and 114', 'index': 0, 'answer': 'C.is maybe'}
+{'id': 229, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'between 85 and 114', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 230, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'between 85 and 114', 'index': 2, 'answer': 'D.is unlikely to be'}
+{'id': 231, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'between 85 and 114', 'index': 3, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be'}
+{'id': 232, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'between 85 and 114', 'index': 4, 'answer': 'C.is maybe'}
+{'id': 233, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'between 85 and 114', 'index': 5, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be'}
+{'id': 234, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'below 85 or above 114', 'index': 0, 'answer': 'D.is unlikely to be'}
+{'id': 235, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'below 85 or above 114', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 236, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'below 85 or above 114', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 237, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'below 85 or above 114', 'index': 3, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be'}
+{'id': 238, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'below 85 or above 114', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 239, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'below 85 or above 114', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 240, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'below 114', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 241, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'below 114', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 242, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'below 114', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 243, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'below 114', 'index': 3, 'answer': 'A.is likely to be'}
+{'id': 244, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'below 114', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 245, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'below 114', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 246, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'above 114', 'index': 0, 'answer': 'D.is unlikely to be'}
+{'id': 247, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'above 114', 'index': 1, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be.'}
+{'id': 248, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'above 114', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 249, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'above 114', 'index': 3, 'answer': 'A.is unlikely to be B.is maybe C.is likely to be\n\nThe correct completion of the sentence would be: \n\nA. is unlikely to be above 114. \n\nThis is because only 7 out of the 20 scores listed are above 114, which is less than half. Therefore, it is statistically less likely for a randomly picked score to be above 114.'}
+{'id': 250, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'above 114', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 251, 'mean_std': (100, 40), 'ci': 0.275, 'interval': 'above 114', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 252, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'below 73', 'index': 0, 'answer': 'D.is unlikely to be'}
+{'id': 253, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'below 73', 'index': 1, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be'}
+{'id': 254, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'below 73', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 255, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'below 73', 'index': 3, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be'}
+{'id': 256, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'below 73', 'index': 4, 'answer': 'D.is unlikely to be'}
+{'id': 257, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'below 73', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 258, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'above 73', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 259, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'above 73', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 260, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'above 73', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 261, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'above 73', 'index': 3, 'answer': 'A.is likely to be'}
+{'id': 262, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'above 73', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 263, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'above 73', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 264, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'between 73 and 126', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 265, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'between 73 and 126', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 266, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'between 73 and 126', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 267, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'between 73 and 126', 'index': 3, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be'}
+{'id': 268, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'between 73 and 126', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 269, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'between 73 and 126', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 270, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'below 73 or above 126', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 271, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'below 73 or above 126', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 272, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'below 73 or above 126', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 273, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'below 73 or above 126', 'index': 3, 'answer': 'A.is likely to be'}
+{'id': 274, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'below 73 or above 126', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 275, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'below 73 or above 126', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 276, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'below 126', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 277, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'below 126', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 278, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'below 126', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 279, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'below 126', 'index': 3, 'answer': 'A.is likely to be'}
+{'id': 280, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'below 126', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 281, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'below 126', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 282, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'above 126', 'index': 0, 'answer': 'D.is unlikely to be'}
+{'id': 283, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'above 126', 'index': 1, 'answer': 'A.is unlikely to be B.is maybe C.is likely to be'}
+{'id': 284, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'above 126', 'index': 2, 'answer': 'D.is unlikely to be'}
+{'id': 285, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'above 126', 'index': 3, 'answer': 'A.is unlikely to be B.is maybe C.is likely to be\n\nThe correct completion would be: \n\nA. is unlikely to be'}
+{'id': 286, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'above 126', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 287, 'mean_std': (100, 40), 'ci': 0.5, 'interval': 'above 126', 'index': 5, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be.'}
+{'id': 288, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'below 56', 'index': 0, 'answer': 'D.is unlikely to be'}
+{'id': 289, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'below 56', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 290, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'below 56', 'index': 2, 'answer': 'D.is unlikely to be'}
+{'id': 291, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'below 56', 'index': 3, 'answer': 'A.is unlikely to be B.is maybe C.is likely to be'}
+{'id': 292, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'below 56', 'index': 4, 'answer': 'D.is unlikely to be'}
+{'id': 293, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'below 56', 'index': 5, 'answer': 'A.is unlikely to be B.is maybe C.is likely to be'}
+{'id': 294, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'above 56', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 295, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'above 56', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 296, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'above 56', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 297, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'above 56', 'index': 3, 'answer': 'A.is likely to be'}
+{'id': 298, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'above 56', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 299, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'above 56', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 300, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'between 56 and 143', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 301, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'between 56 and 143', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 302, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'between 56 and 143', 'index': 2, 'answer': 'B.is likely to be'}
+{'id': 303, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'between 56 and 143', 'index': 3, 'answer': 'A.is likely to be'}
+{'id': 304, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'between 56 and 143', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 305, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'between 56 and 143', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 306, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'below 56 or above 143', 'index': 0, 'answer': 'D.is unlikely to be'}
+{'id': 307, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'below 56 or above 143', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 308, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'below 56 or above 143', 'index': 2, 'answer': 'D.is unlikely to be'}
+{'id': 309, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'below 56 or above 143', 'index': 3, 'answer': 'A.is unlikely to be B.is maybe C.is likely to be\n\nThe correct completion is: \n\nA.is unlikely to be'}
+{'id': 310, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'below 56 or above 143', 'index': 4, 'answer': 'D.is unlikely to be'}
+{'id': 311, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'below 56 or above 143', 'index': 5, 'answer': 'C.is unlikely to be'}
+{'id': 312, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'below 143', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 313, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'below 143', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 314, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'below 143', 'index': 2, 'answer': 'A.is almost certainly'}
+{'id': 315, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'below 143', 'index': 3, 'answer': 'A.is likely to be'}
+{'id': 316, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'below 143', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 317, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'below 143', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 318, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'above 143', 'index': 0, 'answer': 'D.is unlikely to be'}
+{'id': 319, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'above 143', 'index': 1, 'answer': 'C.is unlikely to be'}
+{'id': 320, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'above 143', 'index': 2, 'answer': 'D.is unlikely to be'}
+{'id': 321, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'above 143', 'index': 3, 'answer': 'A.is unlikely to be B.is maybe C.is likely to be'}
+{'id': 322, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'above 143', 'index': 4, 'answer': 'D.is unlikely to be'}
+{'id': 323, 'mean_std': (100, 40), 'ci': 0.725, 'interval': 'above 143', 'index': 5, 'answer': 'C.is unlikely to be'}
+{'id': 324, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'below 21', 'index': 0, 'answer': 'E.is almost certainly not'}
+{'id': 325, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'below 21', 'index': 1, 'answer': 'C.is unlikely to be'}
+{'id': 326, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'below 21', 'index': 2, 'answer': 'E.is almost certainly not'}
+{'id': 327, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'below 21', 'index': 3, 'answer': 'C.is unlikely to be'}
+{'id': 328, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'below 21', 'index': 4, 'answer': 'E.is almost certainly not'}
+{'id': 329, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'below 21', 'index': 5, 'answer': 'C.is unlikely to be'}
+{'id': 330, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'above 21', 'index': 0, 'answer': 'A.is almost certainly'}
+{'id': 331, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'above 21', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 332, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'above 21', 'index': 2, 'answer': 'A.is almost certainly'}
+{'id': 333, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'above 21', 'index': 3, 'answer': 'A.is likely to be'}
+{'id': 334, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'above 21', 'index': 4, 'answer': 'A.is almost certainly'}
+{'id': 335, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'above 21', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 336, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'between 21 and 178', 'index': 0, 'answer': 'B.is likely to be'}
+{'id': 337, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'between 21 and 178', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 338, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'between 21 and 178', 'index': 2, 'answer': 'A.is almost certainly'}
+{'id': 339, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'between 21 and 178', 'index': 3, 'answer': 'A.is likely to be'}
+{'id': 340, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'between 21 and 178', 'index': 4, 'answer': 'B.is likely to be'}
+{'id': 341, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'between 21 and 178', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 342, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'below 21 or above 178', 'index': 0, 'answer': 'E.is almost certainly not'}
+{'id': 343, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'below 21 or above 178', 'index': 1, 'answer': 'C.is unlikely to be'}
+{'id': 344, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'below 21 or above 178', 'index': 2, 'answer': 'E.is almost certainly not'}
+{'id': 345, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'below 21 or above 178', 'index': 3, 'answer': 'C.is unlikely to be'}
+{'id': 346, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'below 21 or above 178', 'index': 4, 'answer': 'E.is almost certainly not'}
+{'id': 347, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'below 21 or above 178', 'index': 5, 'answer': 'C.is unlikely to be'}
+{'id': 348, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'below 178', 'index': 0, 'answer': 'A.is almost certainly'}
+{'id': 349, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'below 178', 'index': 1, 'answer': 'A.is likely to be'}
+{'id': 350, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'below 178', 'index': 2, 'answer': 'A.is almost certainly'}
+{'id': 351, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'below 178', 'index': 3, 'answer': 'A.is likely to be B.is maybe C.is unlikely to be'}
+{'id': 352, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'below 178', 'index': 4, 'answer': 'A.is almost certainly'}
+{'id': 353, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'below 178', 'index': 5, 'answer': 'A.is likely to be'}
+{'id': 354, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'above 178', 'index': 0, 'answer': 'D.is unlikely to be'}
+{'id': 355, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'above 178', 'index': 1, 'answer': 'C.is unlikely to be'}
+{'id': 356, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'above 178', 'index': 2, 'answer': 'D.is unlikely to be'}
+{'id': 357, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'above 178', 'index': 3, 'answer': 'C.is unlikely to be'}
+{'id': 358, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'above 178', 'index': 4, 'answer': 'E.is almost certainly not'}
+{'id': 359, 'mean_std': (100, 40), 'ci': 0.95, 'interval': 'above 178', 'index': 5, 'answer': 'C.is unlikely to be'}

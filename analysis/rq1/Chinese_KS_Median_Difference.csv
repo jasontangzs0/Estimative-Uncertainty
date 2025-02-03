@@ -1,0 +1,18 @@
+,ERNIE-4.0-Chinese v.s. Human,GPT-3.5-Chinese v.s. GPT-3.5-English,GPT-4-Chinese v.s. GPT-4-English,GPT-3.5-Chinese v.s. ERNIE-4.0-Chinese,GPT-4-Chinese v.s. ERNIE-4.0-Chinese
+almost certain,4.0,7.5,0.0,-11.5,7.5
+highly likely,0.0,10.0,10.0,-10.0,0.0
+very good chance,10.0,15.0,5.0,-15.0,5.0
+probable,17.5,0.0,0.0,-12.5,5.0
+likely,20.0,0.0,5.0,-10.0,0.0
+we believe,20.0,-5.0,0.0,-10.0,5.0
+probably,5.0,5.0,0.0,0.0,5.0
+better than even,7.0,15.0,0.0,-7.0,0.0
+about even,0.0,0.0,0.0,0.0,0.0
+we doubt,40.0,-65.0,-40.0,15.0,-5.0
+improbable,0.0,0.0,0.0,0.0,20.0
+unlikely,-15.0,5.0,10.0,0.0,15.0
+probably not,15.0,-5.0,0.0,-25.0,15.0
+little chance,-9.0,-2.5,0.0,6.5,12.5
+almost no chance,-1.0,-4.0,0.0,4.0,-4.0
+highly unlikely,-4.0,0.0,0.0,4.0,5.0
+chances are slight,-9.0,0.0,0.0,9.0,10.0

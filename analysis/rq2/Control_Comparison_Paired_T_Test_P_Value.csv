@@ -1,0 +1,5 @@
+,5 Choices VS 3 Choices,Narrow Range VS Wide Range
+Pair-wise Consistency,0.0,0.681
+Monotonicity Consistency,0.483,0.567
+Empirical Consistency,0.019,0.633
+Empirical Monotonicity Consistency,0.0,0.35

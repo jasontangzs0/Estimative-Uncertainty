@@ -1,0 +1,18 @@
+,GPT-3.5-Male v.s. GPT-3.5-Female,GPT-4-Male v.s. GPT-4-Female,Llama-2-7B-Male v.s. Llama-2-7B-Female,Llama-2-13B-Male v.s. Llama-2-13B-Female,GPT-3.5-Male v.s. GPT-3.5-CNC,GPT-4-Male v.s. GPT-4-CNC,Llama-2-7B-Male v.s. Llama-2-7B-CNC,Llama-2-13B-Male v.s. Llama-2-13B-CNC
+almost certain,1.0,0.69,1.0,1.0,0.18,0.02,0.11,0.26
+highly likely,1.0,1.0,1.0,1.0,0.6,1.0,0.46,0.6
+very good chance,0.63,1.0,1.0,1.0,0.22,0.65,0.26,0.46
+probable,0.62,0.48,1.0,1.0,0.12,0.39,0.25,0.46
+likely,0.65,1.0,1.0,0.55,0.06,0.23,1.0,0.67
+we believe,0.96,1.0,1.0,0.4,0.59,0.8,0.65,0.79
+probably,0.37,0.07,0.17,0.75,0.3,0.6,1.0,0.22
+better than even,1.0,0.86,1.0,0.37,0.15,0.55,0.01,0.25
+about even,1.0,1.0,0.84,1.0,1.0,1.0,0.03,1.0
+we doubt,0.9,1.0,0.68,1.0,0.12,0.22,0.6,0.77
+improbable,0.65,1.0,0.69,1.0,0.06,0.11,0.21,0.84
+unlikely,1.0,0.68,1.0,0.58,0.02,0.3,0.78,0.54
+probably not,0.96,1.0,0.2,1.0,0.01,0.66,0.14,0.11
+little chance,0.36,1.0,1.0,0.63,0.01,0.77,0.32,0.18
+almost no chance,1.0,0.69,0.97,0.62,0.0,0.77,0.17,0.05
+highly unlikely,0.58,1.0,0.73,0.59,0.04,0.84,0.85,0.5
+chances are slight,0.68,1.0,1.0,0.65,0.02,1.0,0.0,0.03

@@ -1,0 +1,5 @@
+,Height,Score,Sound
+Pair-wise Consistency,0.049,0.398,0.35
+Monotonicity Consistency,1.0,0.057,0.083
+Empirical Consistency,0.0,0.006,0.01
+Empirical Monotonicity Consistency,0.874,0.478,0.219
